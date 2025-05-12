@@ -69,4 +69,4 @@ windows_event_log = {
 }
 
 public_network_access_enabled = true
-app_names = ["aguacate", "alfredo", "guacamol", "guacd", "pepinillos", "diego"]
+app_names = ["aguacate", "alfredo", "guacamol", "guacd", "pepinillos", "diego", "pedro"]
