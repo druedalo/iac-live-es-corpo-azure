@@ -1,5 +1,4 @@
 enable_http=true
-app_names = ["prueba-app", "segunda-prueba"]
 ### Windows Encryption ###
 encryption_at_host_enabled = true
 
@@ -70,3 +69,4 @@ windows_event_log = {
 }
 
 public_network_access_enabled = true
+app_names = ["prueba-app", "segunda-prueba", "tercera-prueba"]
